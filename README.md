@@ -1,4 +1,4 @@
-# UpstartReactPrompt
+# HelloWorld React Prompt
 
 Requirements:
 1. "world" needs to change font every second.
